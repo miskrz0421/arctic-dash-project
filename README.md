@@ -22,8 +22,6 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 *   Python 3.8+
-*   pip (Python package installer)
-*   git (for cloning the repository)
 
 ### Installation
 
@@ -133,7 +131,7 @@ The project employs a Curriculum Learning approach, primarily focusing on how th
 ## Authors
 
 *   Kacper Machnik
-*   Krzempek Michał
+*   Michał Krzempek
 
 ## License
 
