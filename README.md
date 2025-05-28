@@ -32,7 +32,7 @@ These instructions will get you a copy of the project up and running on your loc
     ```bash
     git clone https://github.com/miskrz0421/arctic-dash-project.git
     cd ArcticDashEnv
-    ``
+    ```
 
 2.  **Install the required Python packages:**
 
